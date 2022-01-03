@@ -1,0 +1,4 @@
+python3 binary_mask_from_json.py    \
+    --json_file annotation.json \
+    --images_folder sample_frames \
+    --output_folder result_images
